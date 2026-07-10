@@ -1,5 +1,6 @@
 {
-    "version": "1.0.4",
-    "download_url": "https://github.com/AsmarionSoftware/AsmarionSoftware-/releases/tag/v1.0.4/AsmarionSoftware.exe",
-    "changelog": "Otomatik oyuncu tarama hatasi giderildi."
+  "version": "1.0.4",
+  "download_url": "https://github.com/AsmarionSoftware/AsmarionSoftware-/releases/download/v1.0.4/AsmarionSoftware.exe",
+  "sha256": "361a9b2bf13544a1d081c1d7d28d7c96729ffa7e00af913812a17d477c12b33a",
+  "changelog": "Hata düzeltmeleri"
 }
