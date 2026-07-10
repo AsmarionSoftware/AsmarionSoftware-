@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "download_url": "https://github.com/AsmarionSoftware/AsmarionSoftware-/releases/download/1.0.6/AsmarionSoftware.exe",
-  "sha256": "3a30a088a3b82f25428c7667061738f167aa7bce49648168325f5495b1cae3e2",
+  "version": "1.0.7",
+  "download_url": "https://github.com/AsmarionSoftware/AsmarionSoftware-/releases/download/1.0.7/AsmarionSoftware.exe",
+  "sha256": "68d5ad9c45aae9ead94d35bb5fa51c6eade7e4040be7b89dfdab277ee8f129df",
   "changelog": "Genel hatalar giderildi."
 }
