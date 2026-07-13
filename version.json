@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://github.com/AsmarionSoftware/AsmarionSoftware-/releases/download/v1.2.0/AsmarionSoftware.exe",
-  "sha256": "91fa7c5699978c215d918b69f95bfc382dfa8c5b7c8e664befddf1f97b6f78b7",
-  "changelog": "Güncelleme notları program içerisinde mevcut."
+  "version": "1.2.1",
+  "download_url": "https://github.com/AsmarionSoftware/AsmarionSoftware-/releases/download/v1.2.1/AsmarionSoftware.exe",
+  "sha256": "746177e46655d7cda60e022e36da6f7625beb89198f870d67b28b45c0aa5ed72",
+  "changelog": "Yüksek hasar modu eklendi."
 }
