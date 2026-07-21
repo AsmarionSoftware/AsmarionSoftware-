@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "download_url": "https://github.com/AsmarionSoftware/AsmarionSoftware-/releases/download/v1.3.0/AsmarionSoftware.exe",
-  "sha256": "f31f577cfa9d85954b870159fcf775c422db7c845aabe33bffd6d97717c78f1b",
-  "changelog": "- Mob bilgileri artık gözüküyor\n- Saldırı hızı modundaki hatalar giderildi\n- Yüksek hasar modunda küçük düzeltme sağlandı\n- Oyun asistanını sınırsız süre özelliği getirildi\n- Oyun asistanı mesafesini artırma getirildi"
+  "version": "1.4.0",
+  "download_url": "https://github.com/AsmarionSoftware/AsmarionSoftware-/releases/download/v1.4.0/AsmarionSoftware.exe",
+  "sha256": "a8cfd24aeb535cc490232d79d888f9700ca88022b0b4828a79b4686934541b43",
+  "changelog": "- WallHack Eklendi\n- Kamera Uzaklaştırma Eklendi\n- Asistan Bot Mesafe Ayarlama Ve Sınırsız Özelliği Eklendi\n- Program Gizleme Ayarı Eklendi\n- Pencere Üstte Tutma Ayarı Eklendi\n- Tema Uyarlılığı Artırıldı\n- Oyun Üstü Bilgi (HUD) Sistemi Eklendi\n- Radar Özelliği Geliştirildi\n- Farm Analizi Geliştirildi\n- Arayüz Geliştirmesi Sağlandı"
 }
