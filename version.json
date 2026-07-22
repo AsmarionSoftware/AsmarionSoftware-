@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "download_url": "https://github.com/AsmarionSoftware/AsmarionSoftware-/releases/download/v1.4.0/AsmarionSoftware.exe",
-  "sha256": "a8cfd24aeb535cc490232d79d888f9700ca88022b0b4828a79b4686934541b43",
-  "changelog": "- WallHack Eklendi\n- Kamera Uzaklaştırma Eklendi\n- Asistan Bot Mesafe Ayarlama Ve Sınırsız Özelliği Eklendi\n- Program Gizleme Ayarı Eklendi\n- Pencere Üstte Tutma Ayarı Eklendi\n- Tema Uyarlılığı Artırıldı\n- Oyun Üstü Bilgi (HUD) Sistemi Eklendi\n- Radar Özelliği Geliştirildi\n- Farm Analizi Geliştirildi\n- Arayüz Geliştirmesi Sağlandı"
+  "version": "1.4.1",
+  "download_url": "https://github.com/AsmarionSoftware/AsmarionSoftware-/releases/download/v1.4.1/AsmarionSoftware.exe",
+  "sha256": "162f8d98d74fd052b6c1ba8c459b63c3307f610f37df9a006a21ef63f60381b5",
+  "changelog": "- Saldırı Hızındaki Dengesizlik Giderildi\n- Arayüz Ve Bazı Yazım Hataları Giderildi"
 }
