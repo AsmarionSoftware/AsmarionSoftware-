@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "download_url": "https://github.com/AsmarionSoftware/AsmarionSoftware-/releases/download/v1.4.1/AsmarionSoftware.exe",
-  "sha256": "5d7d45a10d43dbed452ed830de0470917d04eb5a7d233bba2c1bf2f2ce45a917",
-  "changelog": "- Saldırı Hızındaki Dengesizlik Giderildi\n- Arayüz Ve Bazı Yazım Hataları Giderildi"
+  "version": "1.4.2",
+  "download_url": "https://github.com/AsmarionSoftware/AsmarionSoftware-/releases/download/v1.4.2/AsmarionSoftware.exe",
+  "sha256": "cfb117ad094c5701d3c74f1ef2c2ce6719ae403fd37d3b0202ee3e36e35073f5",
+  "changelog": "- Küçük görsel hatalar giderildi"
 }
