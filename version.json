@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "download_url": "https://github.com/AsmarionSoftware/AsmarionSoftware-/releases/download/v1.4.2/AsmarionSoftware.exe",
-  "sha256": "cfb117ad094c5701d3c74f1ef2c2ce6719ae403fd37d3b0202ee3e36e35073f5",
-  "changelog": "- Küçük görsel hatalar giderildi"
+  "version": "1.4.3",
+  "download_url": "https://github.com/AsmarionSoftware/AsmarionSoftware-/releases/download/v1.4.3/AsmarionSoftware.exe",
+  "sha256": "b9f1d76f36e5047acccc3df00757c210490f444a985e6f29c06d0dd2ed39a28e",
+  "changelog": "- Çevre Oyuncular Göster Özelliğinde Geliştirme Yapıldı"
 }
